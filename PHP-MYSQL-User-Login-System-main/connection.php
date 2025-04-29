@@ -1,6 +1,6 @@
 <?php
 
-$server = "cloudphp-staging-rds.cexw0qmgqir0.us-east-1.rds.amazonaws.com";
+$server = "https://github.com/Srashti11/Srashti-s-2-years-project.git";
 $username = "admin";
 $password = "Admin$123";
 $db = "cloudphpstagingdb";
